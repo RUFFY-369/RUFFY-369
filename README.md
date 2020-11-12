@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 * You can check out some sections of my work through the repos.
 
 * If you are interested to collaborate on some cool things like reinforcement learning or robotics, feel free to hit me up via [email](prakarshkaushik369@gmail.com)
+<!---![Github stats](https://github-readme-stats.vercel.app/api?username=RUFFY-369)-->
