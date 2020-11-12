@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->I am widely interested in the development of robots and problem solving with Reinforcemnt learning.Or basically the robots that can learn to operate through its interaction with the environment without the need of involvemet of a human to define its behavoiur particularly with very high accuracy.
 
--You can checkout some section of my work through the repos.
+* You can checkout some section of my work through the repos.
 
--If you are interested to collaborate on some cool thing like reinoforcement learning or robotics feel free to hit me up via [email ](prakarshkaushik369@gmail.com)
+* If you are interested to collaborate on some cool thing like reinoforcement learning or robotics feel free to hit me up via [email ](prakarshkaushik369@gmail.com)
